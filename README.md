@@ -1,1 +1,1 @@
-# Applications-of-Machine-Learning
+# Shelby Short Thesis 2024
